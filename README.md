@@ -1,3 +1,4 @@
+<link rel="icon" type="image/png" href="/assets/img/data.png" />
 ## Eat Sleep Data Repeat ⛺ 
 
 ### Tools/Technologies
