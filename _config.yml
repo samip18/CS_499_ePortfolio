@@ -4,5 +4,5 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
 title: Samip Pandey 
-description: <h1>ePortfolio</h1> -> Data Enthusiast
+description: <b><em>ePortfolio</em></b> -> Data Enthusiast
 author: Samip Pandey
