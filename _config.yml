@@ -5,10 +5,4 @@ plugins:
 
 title: Samip Pandey 
 description: <h1>ePortfolio</h1> -> Data Enthusiast
-<link rel="icon" type="image/png" href="/assets/img/data.png" />
-
-Beautiful Jekyll: "https://beautifuljekyll.com"
 author: Samip Pandey
-
-# avatar/logo
-round-avatar: true
