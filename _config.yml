@@ -4,7 +4,7 @@ plugins:
 
 title: Samip Pandey 
 navbar-links:
-   description: **ePortfolio** -> ![Data Enthusiast]()
+   description: **ePortfolio** -> Data Enthusiast
    About Me: "about me"
    Resources:
       - Beautiful Jekyll: "https://beautifuljekyll.com"
