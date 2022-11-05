@@ -2,10 +2,10 @@
 
 ### Tools/Technologies
 ---
-1.Python Version\
-2.Java Version\
+1.Python\
+2.Java\
 3.SQL\
-4.Pandas\
+4.Pandas,PySpark,ConfigParser\
 5.C++ (3D Objects)
 
 ---
