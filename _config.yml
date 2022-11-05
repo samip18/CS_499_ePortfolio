@@ -1,13 +1,11 @@
+markdown: kramdown
 remote_theme: pages-themes/time-machine@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
 title: Samip Pandey 
-navbar-links:
-   description: ePortfolio -> Data Enthusiast
-   About Me: "about me"
-   Resources:
-      - Beautiful Jekyll: "https://beautifuljekyll.com"
+description: <b>ePortfolio</b> -> Data Enthusiast
+Beautiful Jekyll: "https://beautifuljekyll.com"
 author: Samip Pandey
 
 # avatar/logo
