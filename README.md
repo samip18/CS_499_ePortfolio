@@ -51,6 +51,9 @@ Despite being useful in helping us create a range of complicated models, the JMP
 
 ![DM3](https://maelfabien.github.io/assets/images/gcp_32.jpg)
 
+
+[MUST READ: FUTURE OF COLUD COMPUTING](https://www.forbes.com/sites/forbesbusinesscouncil/2022/10/27/the-future-of-cloud-computing/?sh=6f133c0b5786)
+[INFO: WHY IS DISTRIBUTED COMPUTING IMPORTANT](https://hub.packtpub.com/what-is-distributed-computing-and-whats-driving-its-adoption/)
 ---
 ### [Algorithm enhancement]
 
