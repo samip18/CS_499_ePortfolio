@@ -28,6 +28,7 @@ For the algorithms and data structures part, I chose an artifact that was learne
 As I worked on the project, I discovered methods to leverage algorithms and data structures to increase its complexity and efficiency. This displays both my proficiency with algorithms and data structures and my proficiency with Python.
 
 For the databases portion of the final project, I chose to apply what I learned in DAT-220 and created a cloud-based database. Assuming the company has a significant client base, I moved the data to a distributed file system. Using an open source framework, I enhanced data processing and schema enforcement beforehand so that the data science team could only utilize cleansed data while developing models.
+
 ---
 ### [Database enhancement]
 
