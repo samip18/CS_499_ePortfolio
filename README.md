@@ -27,7 +27,13 @@ For the databases portion of the final project, I chose to apply what I learned 
 ---
 ### [Software & Design Enhancement]
 
--  ->
+I decided to use the skills I developed working with 3D animation in CS-330 for the project's software design and engineering section. By increasing the complexity of the conversion from a 2D image to a 3D animation, this section shows off my expertise in software design and engineering. It additionally exhibits my aptitude for manipulating visuals and my capacity to use them on a different platform that needs both originality and aptitude.
+
+A set of 3D coordinates are sent into the graphics pipeline, which converts them to colorful 2D pixels on the screen. The graphics pipeline may be broken down into different processes, each of which uses the result of the one that preceded it as an input. Real-world lighting is incredibly complex and dependent on several variables, making it difficult to compute with our current computing capability. As a result, lighting in OpenGL is based on simplified models that are considerably easier to compute and have a comparable appearance to reality.
+
+This piece of work showcases my imaginative approach to adding shaders, textures, and transformations as well as my proficiency with coordinate systems, camera movement, keyboard and mouse control, and lighting in 3D animation.
+
+
 
 [INFO: WHY OPEN GL FOR 3D OBJECTS](https://www.toptal.com/opengl/introduction-to-opengl-a-quick-tutorial)
 
