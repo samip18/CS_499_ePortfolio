@@ -12,7 +12,12 @@
 2.Java\
 3.SQL\
 4.Pandas,PySpark,ConfigParser\
-5.C++ (3D Objects)
+5.C++ (3D Objects)\
+6.Google DataProc\
+7.Google BigQuery
+8.Google Cloud Storage\
+9.Bash Scripting\
+10.Distributed data processing(Apache Spark/Apache Hadoop)
 
 ### Self Reflection
 I wanted to select three artifacts for my project that had personal significance for me. I wanted to choose projects which I would keep utilizing even after the requirements for this semester were finished, rather than ones that were just academic. I decided to concentrate on improving my e-portfolio, update code that I might use at work, and update a project to add functionality that would assist my growth.
