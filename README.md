@@ -32,6 +32,7 @@ For the databases portion of the final project, I chose to apply what I learned 
 ---
 ### [Software & Design Enhancement]
 
+-  ->
 
 [INFO: WHY OPEN GL FOR 3D OBJECTS](https://www.toptal.com/opengl/introduction-to-opengl-a-quick-tutorial)
 
