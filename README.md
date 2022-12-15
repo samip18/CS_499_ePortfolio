@@ -1,11 +1,6 @@
 <link rel="icon" type="image/png" href="/assets/img/data.png" />
 ## Eat Sleep Data Repeat ⛺ 
 
-[Data Driven Challenges for Organizations](https://hbr.org/2022/02/why-becoming-a-data-driven-organization-is-so-hard)\
-![DM5](https://user-images.githubusercontent.com/75957662/200127239-f2346f45-be78-4734-93f6-28b5daba7351.jpeg)
-
-
-
 ### Tools/Technologies
 ---
 1.Python\
@@ -71,8 +66,13 @@ As the enhancement to the above Bid Vector sorting program, I want to utilize th
 
 The journey of computer science has equipped me wide array of information, first and formost involving complex mathematics and statistics which made me persistence and kept me hungry to solve the complex problem. With the course on hardware I came to hammer on the design perspective of a system and becuase of that course it also helped me to estimate the hardware cost which is always a concerning factor for any company. The major courses on cs-degree plan not just taught me multiple programs but also the theories behind what and hows of architecture of certain system, how object oriented system works, and also how to model the UML while doing a system design. By providing opportunity to use practical labs and project oriented use cases the course helped me understand how to degsign and develop an application based on the use case. Apart from this providing knowledge on non-relation databases it also equipped me on various database choices and when to use the specific database based on use case. In between the learning I learnt how fast the technology is changing and how our society is impacted by it. 
 
+
 [Data Driven need for Organizations](https://towardsdatascience.com/why-organizations-need-to-be-data-driven-98ade3ca53a)\
 ![dM2](https://user-images.githubusercontent.com/75957662/200127231-3c6d647c-420c-4893-a3f3-7512447b1d58.jpeg)
+
+
+[Data Driven Challenges for Organizations](https://hbr.org/2022/02/why-becoming-a-data-driven-organization-is-so-hard)\
+![DM5](https://user-images.githubusercontent.com/75957662/200127239-f2346f45-be78-4734-93f6-28b5daba7351.jpeg)
 
 
 [MUST READ: DISTRIBUTED ARCHITECTURE](https://www.ionos.com/digitalguide/server/know-how/what-is-distributed-computing/)
