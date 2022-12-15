@@ -1,6 +1,11 @@
 <link rel="icon" type="image/png" href="/assets/img/data.png" />
 ## Eat Sleep Data Repeat ⛺ 
 
+[Data Driven Challenges for Organizations](https://hbr.org/2022/02/why-becoming-a-data-driven-organization-is-so-hard)\
+![DM5](https://user-images.githubusercontent.com/75957662/200127239-f2346f45-be78-4734-93f6-28b5daba7351.jpeg)
+
+
+
 ### Tools/Technologies
 ---
 1.Python\
@@ -50,5 +55,4 @@ As the enhancement to the above Bid Vector sorting program, I want to utilize th
 ![dM2](https://user-images.githubusercontent.com/75957662/200127231-3c6d647c-420c-4893-a3f3-7512447b1d58.jpeg)
 
 
-[Data Driven Challenges for Organizations](https://hbr.org/2022/02/why-becoming-a-data-driven-organization-is-so-hard)\
-![DM1](https://user-images.githubusercontent.com/75957662/200127239-f2346f45-be78-4734-93f6-28b5daba7351.jpeg)
+[MUST READ: DISTRIBUTED ARCHITECTURE](https://www.ionos.com/digitalguide/server/know-how/what-is-distributed-computing/)
