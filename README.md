@@ -30,6 +30,11 @@ As I worked on the project, I discovered methods to leverage algorithms and data
 For the databases portion of the final project, I chose to apply what I learned in DAT-220 and created a cloud-based database. Assuming the company has a significant client base, I moved the data to a distributed file system. Using an open source framework, I enhanced data processing and schema enforcement beforehand so that the data science team could only utilize cleansed data while developing models.
 
 ---
+### [Software & Design Enhancement]
+
+
+
+---
 ### [Database enhancement]
 
 The artifact I have selected for the database enhancement is form the course ‘DAT-220 Fundamentals of Data Mining’. This artifact used Microsoft JMP as its foundation to analyze the data and find the answers to the research questions aimed at creating business intelligence for the specified enterprise. JMP had not used data lake models. Assuming that client visits are increasing and that the outdated technology we were using cannot support the use case, we will now install lake house architecture. Since we were only saving files locally, the data storage size is where it initially fails. Second, the processing engine JMP has a set threshold for the volume of data it can handle, and third, none of the data was serialized, making it unsafe to store and process. This artifact used Microsoft JMP as its foundation to analyze the data and find the answers to the research questions aimed at creating business intelligence for the specified enterprise.
@@ -45,7 +50,6 @@ Despite being useful in helping us create a range of complicated models, the JMP
 ![DM3](https://maelfabien.github.io/assets/images/gcp_32.jpg)
 
 ---
-
 ### [Algorithm enhancement]
 
 ![dM2](https://mymusing.co/wp-content/uploads/2017/04/sorting-time-complexity.jpg)
