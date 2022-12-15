@@ -28,7 +28,7 @@ For the algorithms and data structures part, I chose an artifact that was learne
 As I worked on the project, I discovered methods to leverage algorithms and data structures to increase its complexity and efficiency. This displays both my proficiency with algorithms and data structures and my proficiency with Python.
 
 For the databases portion of the final project, I chose to apply what I learned in DAT-220 and created a cloud-based database. Assuming the company has a significant client base, I moved the data to a distributed file system. Using an open source framework, I enhanced data processing and schema enforcement beforehand so that the data science team could only utilize cleansed data while developing models.
-
+---
 ### [Database enhancement]
 
 The artifact I have selected for the database enhancement is form the course ‘DAT-220 Fundamentals of Data Mining’. This artifact used Microsoft JMP as its foundation to analyze the data and find the answers to the research questions aimed at creating business intelligence for the specified enterprise. JMP had not used data lake models. Assuming that client visits are increasing and that the outdated technology we were using cannot support the use case, we will now install lake house architecture. Since we were only saving files locally, the data storage size is where it initially fails. Second, the processing engine JMP has a set threshold for the volume of data it can handle, and third, none of the data was serialized, making it unsafe to store and process. This artifact used Microsoft JMP as its foundation to analyze the data and find the answers to the research questions aimed at creating business intelligence for the specified enterprise.
@@ -42,6 +42,8 @@ In order to adopt the Lakehouse architecture using the Google Cloud, we will fir
 Despite being useful in helping us create a range of complicated models, the JMP framework lacked a reliable data storage and robust database system. During the enhancement, I found that the deployment of the cloud had made our database incredibly available and fault resilient, in contrast to the JMP and the data's local file system storage. A distributed architecture, which is practically impossible for systems that handle data vertically, allows us to efficiently grow any volume or type of data, as I also learned in between. Last but not least, JMP-like technologies are essentially unable to benefit from the polyglot programming nature that open source technology gives in order to curate scale migrate, and develop advanced KPI.  
 
 ![DM3](https://maelfabien.github.io/assets/images/gcp_32.jpg)
+
+---
 
 ### [Algorithm enhancement]
 
